@@ -1,0 +1,3282 @@
+[{
+  "commit": "f797dfe883ee510f32acadf3ab8be736146e5927",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Nov 22 17:31:45 2016 -0800",
+  "message": "4.4.0"
+},
+{
+  "commit": "748cf5245fe1c74a41d86be565a59bd851b91714",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Nov 22 17:13:48 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "4a62ae5180acf3998b3a63eceaaf3d2443ecfc54",
+  "author": "Peter Lenahan <peter.lenahan@synacor.com>",
+  "date": "Mon Nov 21 21:53:45 2016 -0500",
+  "message": "Correct-typos-in-d3-axis-documentation-axisTight-axisRight-axisTeft-axisLeft"
+},
+{
+  "commit": "667ce0d7f846869d351c3e51602ec659b418a7f8",
+  "author": "Mike van Rossum <mike@mikevanrossum.nl>",
+  "date": "Fri Nov 4 14:55:27 2016 +0000",
+  "message": "an-Y-shape-symbol-a-Y-shape"
+},
+{
+  "commit": "9ec65086df29e5ba093ddb3e80853d1a1474ee16",
+  "author": "Mike van Rossum <mike@mikevanrossum.nl>",
+  "date": "Fri Nov 4 14:34:27 2016 +0000",
+  "message": "fixed-wye-decription"
+},
+{
+  "commit": "5506719c33643fd772610ec956c6accdc73bfea4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Nov 2 15:32:05 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "2d5a1eeafd2f2f25f16df970b30f6d751061ef77",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Oct 27 11:53:45 2016 -0700",
+  "message": "Update-the-API-Reference"
+},
+{
+  "commit": "33da151d2437941ea0767f27b6a83668ea5f21bb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Oct 27 11:43:19 2016 -0700",
+  "message": "4.3.0"
+},
+{
+  "commit": "635865c959bb49b54691bdf0dff03eb62e1b5002",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Oct 27 11:43:10 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "ec3fa7239e48e84873de7b034692389bb48bcb5e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Oct 20 10:51:07 2016 -0700",
+  "message": "Merge-branch-master-of-github.com-d3-d3"
+},
+{
+  "commit": "46cce19226e68cb3ed14a53ea7a2c83f163886d1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Oct 20 10:50:30 2016 -0700",
+  "message": "4.2.8"
+},
+{
+  "commit": "42e072c99c07a0fe105d49dbecf0d09d077569cd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Oct 20 10:49:59 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "c5ce7d1ef93b077cdf7cb704b712242955717993",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Oct 19 14:43:25 2016 -0700",
+  "message": "Fix-3.x-examples.-Fixes-3010"
+},
+{
+  "commit": "97255a5062ba0ab38e3f6b4738ab2a0773052470",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Oct 11 08:54:56 2016 -0700",
+  "message": "4.2.7"
+},
+{
+  "commit": "9c7f52429e0e9f1c8e4d9c516d80a63c5d1456a0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Oct 11 08:54:51 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "b35588e572b5cf475d6bd3e3b77c929a38977c74",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Oct 7 09:09:57 2016 -0700",
+  "message": "Add-ISSUE_TEMPLATE.md.-Related-2994"
+},
+{
+  "commit": "6a128b87cf8133cfab45b5a3cd0c7179b96a531d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Sep 22 10:30:22 2016 -0700",
+  "message": "4.2.6"
+},
+{
+  "commit": "6d17d4169a6615c00e1b3488ea131e1456a5dce4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Sep 22 10:30:06 2016 -0700",
+  "message": "Update-d3-time"
+},
+{
+  "commit": "9eace2286819ea2624d7393e004a4827069ade84",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Sep 20 13:12:56 2016 -0700",
+  "message": "4.2.5"
+},
+{
+  "commit": "946736778cf046364bab8067ac88913ce658558d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Sep 20 13:12:52 2016 -0700",
+  "message": "Update-d3-geo"
+},
+{
+  "commit": "4bf2a889cd3aa4c947909b158c20a150454f2fcf",
+  "author": "Fábio Silva <fabio.fernando.osilva@gmail.com>",
+  "date": "Mon Sep 19 17:43:03 2016 -0300",
+  "message": "Fixed-typo-in-API-reference-2977"
+},
+{
+  "commit": "d1e6346084c4a7847ca9c90ee190ba7e5a4b01fd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 19 11:55:44 2016 -0700",
+  "message": "4.2.4"
+},
+{
+  "commit": "fa405ae34d1ea9c2d4957d8087d0a5fe0a491cc4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 19 11:55:39 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "1814e85ae259f44baec3b857bd8573db1d29685c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 19 11:54:01 2016 -0700",
+  "message": "Fix-permissions"
+},
+{
+  "commit": "10319b4e5dc36e22923ec400661ea5da128098a3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 19 09:11:00 2016 -0700",
+  "message": "Fix-2973"
+},
+{
+  "commit": "abdcb7e88d390627d6bc9ab3aec8f182002f647e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 19 08:52:43 2016 -0700",
+  "message": "Fix-2976.-Document-removed-internals"
+},
+{
+  "commit": "55a8388d728315fd50f11ca5ab944b01296e4681",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 12 16:35:35 2016 -0700",
+  "message": "4.2.3"
+},
+{
+  "commit": "20a69e7d2bb9df02207de797c7bb870799f12770",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Sep 12 16:35:30 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "d5e2c6f61bc82237c9dc5e7714d75335daf19c10",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Sep 11 07:56:34 2016 -0700",
+  "message": "Update-d3-force-changes.-Fixes-2971"
+},
+{
+  "commit": "2265db7b33990eb76a33cd9787af5c5358e13eb6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Aug 30 12:26:38 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "0730276166e15d2a164cd816906ea17a2a42cfb4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Aug 30 12:25:30 2016 -0700",
+  "message": "Merge-branch-patch-4-of-https-github.com-jefkoslowski-d3"
+},
+{
+  "commit": "f70d896e1a93166cbb007e9e2135c5f8cf5edefd",
+  "author": "Jeferson Koslowski <jef.koslowski@gmail.com>",
+  "date": "Tue Aug 30 13:46:24 2016 -0300",
+  "message": "Updated-npmcdn.com-links-to-unpkg.com"
+},
+{
+  "commit": "b5cd5634ffd6c2a78d360a7ab34ad5a70b7365fb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Aug 15 21:21:49 2016 -0700",
+  "message": "Disable-negate_iife"
+},
+{
+  "commit": "a92d40d92129009c9a5e0da7c7dbb740837c2647",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Aug 15 21:19:25 2016 -0700",
+  "message": "4.2.2"
+},
+{
+  "commit": "0314d0304c86402b380438edc48e0c4e3efaca09",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Aug 15 21:19:18 2016 -0700",
+  "message": "Update-d3-geo"
+},
+{
+  "commit": "a9878e996ac1239ac1ae19d2755024314162e858",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Aug 11 08:47:25 2016 -0700",
+  "message": "Add-module-entry-point"
+},
+{
+  "commit": "0806b7821fecc6a5af0e6ba4b52bbe49bf4e355f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Aug 7 07:58:26 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "bd735631eae3d11ab8c1bbbb2c0a8982358e922d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Aug 7 07:52:32 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "b05d8676db223b05c1f9512488f0d334209a44f8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Aug 7 07:51:27 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "3b83e9fa35a08d1da24dca008da55702015e102d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Aug 7 07:50:53 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "7ad0ee653d53d795fc6623ffd201353b7144ab81",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Aug 7 07:49:47 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "5a7c7fdec4050effbb2f9bb33440a5d1c83fe7e1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Aug 2 17:42:13 2016 -0700",
+  "message": "4.2.1"
+},
+{
+  "commit": "2b0e668d9ba9be5ae44b0df446f09e5805c9ddd9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Aug 2 17:42:07 2016 -0700",
+  "message": "Update-rollup-plugin-node-resolve"
+},
+{
+  "commit": "e03fcfbb44227b957b9fba12559d2383534e5a75",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 29 16:02:36 2016 -0700",
+  "message": "4.2.0"
+},
+{
+  "commit": "5ae7fda4b3d5e249c46fa7350f1af779c5eec499",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 29 16:02:32 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "7c78cb61599ae112dda2f56ebcca0e985bcad002",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 29 06:50:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c8088a0376f284d60c577ace32f3badc51814e54",
+  "author": "Barrie Treloar <baerrach@gmail.com>",
+  "date": "Wed Jul 27 06:00:38 2016 +0930",
+  "message": "Minor-typo-correction.-2920"
+},
+{
+  "commit": "f1ec16c3baaf160d7d2e3e9538efda4d5b02dfd9",
+  "author": "william-pan <william49@qq.com>",
+  "date": "Sat Jul 23 19:33:25 2016 +0800",
+  "message": "Fixed-description-typo-in-API-reference-2916"
+},
+{
+  "commit": "9b66aa0be97d9c4bf99714b18dc501db2e40601a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jul 18 14:56:57 2016 -0400",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4935be4b8a4bc5e94efa440e3b9333b7b980a720",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jul 18 14:54:59 2016 -0400",
+  "message": "Merge-branch-master-of-https-github.com-gordonwoodhull-d3"
+},
+{
+  "commit": "07acde59483787221f21c48f48a30a152391a347",
+  "author": "Gordon Woodhull <gordon@woodhull.com>",
+  "date": "Mon Jul 18 12:57:27 2016 -0400",
+  "message": "a-few-typos-and-clarifications-in-the-changes-doc"
+},
+{
+  "commit": "32c724ed6dc43604fc41550bd817cd3ebf640d0a",
+  "author": "Dev-Lan <lange604@umn.edu>",
+  "date": "Wed Jul 13 18:44:59 2016 -0500",
+  "message": "fixed-link-typo-in-API-reference-2905"
+},
+{
+  "commit": "bd55ecf1ec4d04cabbf3d793e306e38093d444dd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Jul 10 22:47:51 2016 -0400",
+  "message": "4.1.1"
+},
+{
+  "commit": "8d9c8f641ef468b1ea8b17c11c523b0e8a5fff69",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Jul 10 22:47:46 2016 -0400",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "0e360db3173d3be2af9fb66880046c39fa1b469e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 8 18:50:10 2016 -0400",
+  "message": "Update-CHANGES.-Related-2896-d3-d3-request-12"
+},
+{
+  "commit": "17e15a97ef8f72d5fec64bf2b1c1605c01241188",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 1 22:27:51 2016 -0700",
+  "message": "4.1.0"
+},
+{
+  "commit": "07f0cd19f80dfaab540c63203c9f5a1164fb75f2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 1 14:10:07 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "15a892f487ee09ad05e7f34d7fb8531f0deb63ee",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 1 14:02:24 2016 -0700",
+  "message": "Fix-2885-missing-d3-chord"
+},
+{
+  "commit": "ed5f82347ea0faf148913703e14c685ef98e44f8",
+  "author": "Curran Kelleher <curran.kelleher@gmail.com>",
+  "date": "Fri Jul 1 19:29:51 2016 +0530",
+  "message": "Remove-sentence-fragment-There-are-also-.-.-2883"
+},
+{
+  "commit": "2a7758293d5edf0b3877838ce9232097d47ba862",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 30 08:56:07 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "193a8605a52583d334fc38e069518453fc9571d1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 29 17:16:54 2016 -0700",
+  "message": "Update-bower-on-publish.-Fixes-2874"
+},
+{
+  "commit": "024e8b041220e3c006aa6518f0b6392523ee4031",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 28 08:02:50 2016 -0700",
+  "message": "Tweak-postpublish"
+},
+{
+  "commit": "435793ac1444ebf43cd215af81e72a1a77b86516",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 28 08:01:50 2016 -0700",
+  "message": "4.0.0"
+},
+{
+  "commit": "a7caf9375fe14d7235562af541fe9decf499bbfb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 28 08:00:33 2016 -0700",
+  "message": "Prepare-for-major-release"
+},
+{
+  "commit": "675f86de12f54f82d6512508a010780add2a6531",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 27 15:10:27 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "e2e91fed7048b9f5190c46a007d9cec362f40ead",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 27 15:09:09 2016 -0700",
+  "message": "Add-link-to-3.x-reference"
+},
+{
+  "commit": "3a0ba23482294aa0e25b893424fa467d583eb36e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 27 11:47:41 2016 -0700",
+  "message": "Link-to-README-directly"
+},
+{
+  "commit": "a28274c86e77c3fa5ca61fc2d1f6128e70425e83",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 27 11:28:46 2016 -0700",
+  "message": "Merge-pull-request-2869-from-mpersing-patch-1"
+},
+{
+  "commit": "03f37a996b779b7e4f00d20aa072c71773b4dceb",
+  "author": "mpersing <potroast42@gmail.com>",
+  "date": "Mon Jun 27 11:22:20 2016 -0700",
+  "message": "Fixed-incorrect-links-in-API.md"
+},
+{
+  "commit": "3e6a4658a245b72b71e594f4eabec19ef102f64b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 14:19:18 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "e6bce5a76ca6e6c8f8fe988b8ce57242c4c94600",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 14:15:40 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "d88af7b695ca4ddfcc6a9ee2650e5404dda27caf",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 14:13:34 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "ed2ae909f48732ec56f2dbc537a7750f9bf0c7f7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 14:12:27 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "5cc857ad9f24a82a82840b89f29b2922e4b9399f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 14:11:00 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "8777757a3c427dec32fe606394ba473ddd9b52c7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 13:48:51 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "49241b2529560f26037a859d0b8f4b24545f4940",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:32:52 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "7c5054cc869c3dbfe14f4fdd311cd44277328cb1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:31:50 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "f391b90138e539d69ebade057976188626852749",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:27:16 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "44515fd85b29dd4aa07c05acd0e211882bcce58e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:23:06 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "119aaeedb44983fd40c2fe6ef98befe0d899226e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:21:20 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "91cb2aed4e069de7de98555d44790c703425b295",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:20:23 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "e2b8933a38b5ca3e4f55320f536c72b1c2d1453f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:10:38 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "3d776da6658fb2aea8d6cde240c7ad0a9e94f311",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:09:27 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "942328c57cc4b9fe1ab0395472eace8eaaa9e590",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:07:29 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "81cde7bc65686ef5e6ab70fb051580d09add3fb0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 09:03:51 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "4d777f819a4b7abf47ee335e2eb73743904f96f3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 25 08:16:09 2016 -0700",
+  "message": "Update-d3-brush-zoom"
+},
+{
+  "commit": "21b6f2b49e8f343de37dbddcf0130ddb97302e66",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 16:34:00 2016 -0700",
+  "message": "4.0-release-candidate-1"
+},
+{
+  "commit": "4703e4c3fd07bd468f67623477e53c2ef7a9760e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:29:30 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5d612e5d08dc543e28b78a37e35fb182ea8189a9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:24:55 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ff554e4fbae1ccec0ffaf0f7fe3c323879d052b5",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:24:37 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "81b78baa10546ad803a6e5bfc238758d5174cb99",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:24:02 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "cb9adea55427a8dc27b1835998ed66f0885bfc16",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:15:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "199d335bcde709e0057afaed0d8e92d62f74116b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:14:29 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "38e100dd3a19d5957922c6fb7625be5964c8d78d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:13:24 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7c955a83c88a2839441ce55079438487fd66a3b0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:11:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "18630e35d8909377c908a0ebab7565a14d539ad1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:09:19 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3be37e5a1e038e51bcacb32836de7842dd5bc729",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 10:00:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4e183c1c75da00aaf699257e89d5b0ab4b5506cd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 09:59:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "fb02814a76d91b9b7b106cfdef9dd56dce0862bb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 09:45:19 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d5e7e6f8695870591dd25377476b68260b875b68",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 09:29:34 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "239b7390f0eaca07a6983834b85bddedf6fb619e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 09:26:47 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "2705001d8ea939d8f93eadbb7a2d6de89ed69a85",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 09:12:28 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "aa72b44cc6bd23fd9146996c60193e5788117ac9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 24 08:47:50 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "9ef28eea89325258da992fe7e8b1633a2d89555a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 21:41:34 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "468a43e2900e3b9da8d5efc9c569146084f201ff",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 21:38:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "aa13134b582bcf20dfb82bb5346a4198afdaadb6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 18:01:10 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1e13bb8ecc1fb92c2c0624f33978ec20f15913b8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:56:26 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a3a5a5d825953618bbe86cb8e01da2513bb8083d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:55:03 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "78f6e50b0c1f0dcbfa2c07aa98310a6562b669b7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:54:35 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3d62c61aeb796acc7f82420f072823687c43b721",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:53:29 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "fe9468ecd51975d0894ef6f25e248350efdd81cf",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:36:45 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "781689b9db3baeac032b9ab4d523efa22082a520",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:30:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c7fd6919fb9b29a4b28b14b492356e2b1102c1ac",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:28:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f681093f5b2ce09f729887396e6441d6e7d1a33d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:27:25 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4707533155ce67a9936cb95e924ff5c12763ad39",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:26:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f8d8297f66d8c436e1e096ee0a6e14529f2c2314",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:26:48 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "456f0ea28d6206f47226766076ca0bb0af38da48",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:15:13 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6bba0821721d592709a78ae7d50b68e61cb645b9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:13:46 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5a489062efefb94142fd22db6c1cd98af67b6afd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:13:03 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b9cd947eb3363fc893ba951e10653244e2e692b6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:12:09 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b1496594083205f7951fdcef1244afdbe086de1f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:11:27 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "cf2f92678755b5980cd10d1489edd1c53a7ee117",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:10:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1c692fccdd08f37f38e54dcbe1073b441b9436a9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:04:31 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "2d8d693acf82bdf09e848e2081996319a7c7c936",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:02:54 2016 -0700",
+  "message": "Update-API"
+},
+{
+  "commit": "d02d74e3a20a71b3b91f4e9c40f56d46b70087db",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 17:00:49 2016 -0700",
+  "message": "Move-API-reference-out-of-README"
+},
+{
+  "commit": "6b3f9a06fffc81fa9d0a900b6cef0c77c0cf671e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 16:56:24 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6694dfd3c3d1a540a824359c8a24f973f9a042ae",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:37:41 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f63a78566fd5ef8ca6a564ff531664aaf5d675d1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:35:53 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "30cccac3f0fb299b451da88e2a22bb348709560e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:35:06 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "eebcb115eb1e6b10dcfcec086bb3de39fc73a7f9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:33:35 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ff294065a5bfad507d41fdd48bc70f338b25abdd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:20:55 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a370ec9800d0caa491bf16c61cbef6f97d951a2f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:13:17 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5b62943ddcfd56dda072b84fd74b82a6e0118873",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:13:05 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "e4d09ac176ab3eda0e6aa120eb118eeff320b3a9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:11:47 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "8852144420654a9ddf7b9d91a731ea367ba3d235",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:10:20 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "66f13e585929e10c048e7cb2dd673cfea80b0982",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:03:58 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "2c881b16063169e865e0d0885cc489ac0564c8b8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:03:27 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "77bb117cdcc3abc6f52b750d8054e2a89dcf9d8e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:02:34 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3e774f8399a5dd5e8ac33c13a93612d4ea8f5785",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 15:01:22 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "04cea6e30e343dc75a2c4a4df26065a7f562072a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 14:05:45 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "41afb08f870a25910111d8aac3e6666cbabc402e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 23 14:02:59 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1ebbf23056911d16db9f6da989dd21182c6e54cd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 21:36:43 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a654a29e8cd241a8c8b8ed8a46ca2306982f6f3e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 15:53:40 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "e06d40e982d4c422d1ae2cfd9caaac37c4422631",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 15:53:25 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5c3be383f7091a3dc15f30f51b44450a3cdef181",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 15:53:02 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "24debcaf670308944cfe2fbf8f31e9d5f461375f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 13:29:40 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "28cda0d58081b53dc9f4cc0c0d42c8cb52f2c6ca",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 13:13:58 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "66f3be6db29b6c3ac3929ec53f7b0a8256874f4b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 13:13:45 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "8829a26225c6d26e80e7084794218e5a9a96b42c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 13:08:50 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1e1fc808fd23d3e1b2ae1d0eabded8e420ecb830",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 13:08:49 2016 -0700",
+  "message": "Add-pack-images"
+},
+{
+  "commit": "1c3a1b8c7af46d519be64db51b388ef93825e68c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:55:06 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5927575d019044f931816c0973f92b23371ab57f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:54:37 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5d67f36ba7f74dfc37480e5c580e0564ff03b6c2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:54:29 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "721d169fba7422acddb0a213635bf4d4ad919832",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:53:53 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b2b58c091b1c957d34d78e1e11f75c92bff01f5a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:44:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0b5249e7d8d79e99b6540f68bf849a37fabcca2d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:43:13 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "34baaf0ae9cc2d9abb24a87f81cec34c9d1877fd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 12:25:04 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c31adb40a6bdd686e1c32c1073764ab8ddb7bceb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:56:38 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "48fd08cf24df0312062daceed02d3fa082300e01",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:56:34 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ca91481b5ef835230858715650b22f25df59fada",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:56:29 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c49ad9e45ebac940ab94e984e4cdd748f50d1d04",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:53:46 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "be6b3f5e590b64e937c982e70bfa235255984360",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:52:05 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3ee3c40b19081b8e11241230b6022632b69f236e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:50:40 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "36f25449fe76bd2c088bccc8eca397649e899604",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:49:52 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5aa12c5bb5991d0858b41768e1f495cd097797ef",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 11:48:49 2016 -0700",
+  "message": "Add-stratify.png"
+},
+{
+  "commit": "0728dd48d1712c4bb98e0beea5d6ac2155aea1a0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 10:50:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f2dcd4260d073f25409710f260558d634dd06467",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 22 10:48:38 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "701d5bde8030b903765013c9b59edf935dd8f118",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 21:26:34 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b13a84f825380c143c39fca9339e56577802a329",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 21:26:23 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f4b93beebab3fbd5c110fc359553e8b25b51cb0b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 21:24:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3a06b3bc3303f45d93e065c50ffc86cde2e7971e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 16:55:40 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3e4e3393b33b4a88b838a26c86ccf06c243b9a96",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 15:23:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5f3219fd73275f4134a5ed29ba5b40ee6acb7501",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 14:50:03 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7a0c54b382ccf5df6e1f839237a0551b7c5542e8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 14:47:46 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "07ff80e9114fa16b187889e5bbe0b0e202754d61",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 11:38:30 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "10ec58b0943a689a443c94a5631e87006c47b33f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 11:35:39 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7e0248b2d1f94cf2983363b47b2d80dfbf50648a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 21 11:20:42 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "73628b3092a01a4a05c1b2a58d313237c85e82c4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:41:00 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "cf5ba74aadf0d8e37c911fdcaa0e33f063f00996",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:40:26 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3677858252c64e6763d7a9458d9473b548103291",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:40:09 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "bc716fceac030ea172891a219f455d3aabf5042b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:39:50 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "9f467e591cff7991054833cec2e6909786a8988e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:39:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "815d38b869631c5dd197940e5432af4ba3000499",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:38:42 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6f63be68a16033acc96c7ee056fd374cd1d3a013",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:38:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b20b8ee689e71ba6bd648b0933a1cdbbeeccf3d9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 15:36:20 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4991ea3cc8fe5b7684ab96ec396f0534e5c38c53",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 12:32:58 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7d84e01de46da320983e69a8ab00d714d398855a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 12:11:31 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "8236a004023a214303b3e788fe7d4a0d673da9da",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 12:11:10 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "dba952313d94d4292568b6f7ba1ec2bef1968a13",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 12:09:10 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "86df1f807fe31b3da642959da0573af504a23974",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 11:47:13 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d16fdc1090ee66ea3e9ea3c626f675effd7367af",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 11:43:39 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7d523b3526dfb13c89b0480d4eb3a63f62d4f743",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 11:42:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "cbb65eebc5494b1e3463afef7445c641925de4e6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 20 11:40:43 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5fb34810ce951a06581638696e33140392a52326",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Jun 19 10:03:18 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "8fbfa1f534aabfa54e3fc1a5db351f4135ac63f7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Jun 19 09:54:00 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "907a4255ec94d6d764ebc6a68e705799dd292d6b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Jun 19 09:52:30 2016 -0700",
+  "message": "Add-d3-geo-update-dependencies"
+},
+{
+  "commit": "803e6c820fa2c1c69c1b971cb871ca8f10ffb268",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 16:21:40 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3e503b20ec52bc12ce456a950d0a4b4f26398f31",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 16:19:34 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c826bce6d4bca1beb969f6b168326edeac189ace",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 11:42:50 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6f9bd49806cd13d4311f2db4d585e67a1a266e1b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 11:41:22 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "562a5fa0dd550d944a4642c2785b0b913c577d7f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 11:41:07 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "764307a9b15498f6371a100889a760f9ee99ab32",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 11:40:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7e074abd64b03442b0a2698135d3fac6100503ff",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 10:55:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0e6d5bdcb65b985eb445c7b0761548b683d1e5ce",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 10:07:35 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "398af0577a6d6909e74485c466c87c682c0fafbe",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 10:06:57 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "70609508a10d1a5301dd4e5fc298636e5aaa3f14",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 09:30:05 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a0f59be6531923f9aa7f9a66346a549d0ef57173",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 09:29:33 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1993686bc44b3735c82ba8c26a8077f1cd3dceec",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 09:23:58 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5ca0f285578e3957faedb8db5df0426bb2144928",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 08:52:32 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c2d08b4208c96e2d475627fb4fffba8d6e4eadd9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 15 08:55:36 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "dd08864553598d01dd90ee001b037d60f765fa66",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 16:32:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f4feb01dd2fcb568d41d9a9ed795ccf7f102ab3a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 16:30:42 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "71f898b94cb9c3e6a5ac09e66ff0aebd57e737ff",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 16:30:26 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "324c1a4c355b7caa6b2de6a0714a286025cb51ad",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 16:28:49 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d86c180e8f3475e3e9294da4fbfce93c7bd351ee",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 16:13:36 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ce796a5dffef3c962d0bbf22963f0849a17c9d73",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 16:12:49 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a7552eaa636edd7b4dba9e278091095076cef788",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:59:31 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c5ac49a88e5768f5bfa39d3bd4e1e64eb80c1b0b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:42:30 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3c140ca53c29a4f24bc47c5120cfbfadc9e47c57",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:41:50 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "e7b38e4eafea047046eb72e9f43cef6a2e5348ee",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:39:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "8f64897c7b7354b7e5d9b8711b926be9b74031a4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:35:31 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0d6471da2f61739e7033f7e3ba58bb6bcaa602be",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:30:47 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3f3bd0c712627fb6b5c010c49c51ffbc123eaf8a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:29:14 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "62b7b3fb1e2ad12cd0b7aecfe3d26709ec0ef45f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:28:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "e68a4c802e2e57392bd7ce9c57f4225381baa68d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:28:20 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "76e158a100f39fff87d412ca96d564e4f8a028c8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 13:27:07 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "37c4ff938f356336ee1e397a9dcb3f0fffcd42e2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 12:48:52 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b6372a116579862901e3849da921d30d237694e4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 12:47:49 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d355176c6f3d12d8c7b9688aa70396e603e9f559",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 11:44:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "fb118ddb5409cb4fd633129214acd00fdb77e776",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 11:24:29 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6a0a2a80a3909177272b737c84d99324e0bd3801",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 11:21:51 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4f7414a2c0825503662c88668517060ce6095741",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 11:02:07 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "9c3f7ecbb3d9a71a7982bf80771027e1b8d16f9e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 10:52:56 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "088156ee43cee6dd08b080a4ad84b4c19f496cea",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 10:28:04 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "eba6fc8922e188a011aacc4ad632fb00a44feb31",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 10:15:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c967623aa1388378c25b36e94b91713881dad0e8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 10:10:18 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d4ad20baf7d92447895f7e9ccd6ee8b0e02c8c88",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 10:08:09 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b906d1b7b9d5c725b0ce3f0becad018dad2e2886",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 10:07:35 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3792c0f2afe3522d6b3efe038e32350c9ee69834",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 14 09:45:46 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "18fa6de295301c4754acf90336efd5efc87c5723",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:56:53 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "117fee1936d25a22870e1ab973c1e5a42ad21682",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:16:16 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "09677297de8d9cd9f5084c662109525bde21276c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:09:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1d00d451a6d0ef946620d8e8aa9968796cdaa92d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:05:32 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b7f318600d54344448c89de3968eabbf1c2b866a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:04:19 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "375b8abad726165185b4d571880077e478c5bcb1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:03:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0bf137f218c90deefd7b5c7bbea6bf7a30fdad6a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 16:03:18 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b4e0aab43430cd2eb8613735222a3cc3752d8c09",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 15:47:27 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ffa43077266dc596abd5ade59e7ef4b9050ae376",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 15:47:09 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "68212320759fcd706a5383dbb1cb026a9cca68bd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 15:46:22 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ab51dbcf8f82093416bc3d0a696816f3db961675",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 15:46:06 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ace3f5dfc165c847da5a63b2acf3ba8704bdfc02",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 15:45:28 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "13be5eefc8c11ad28d961999f94e8be27c9d8c81",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:32:09 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c057ec29d417f03fac3d8909b72bbba05ed8873c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:30:42 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6d0b2669c22baeda555831d866f3bfea61b4ff16",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:29:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "446f2e052f9aa742587123764ad0001090e7369c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:29:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "e51c3c95bb392e6f3c62303d00d907f398956f12",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:16:22 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "eba0d8ae8805c5489d08cd23b75d7a4ee78a6da0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:14:43 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a8d52580be47513edcfe68289d8640b862491d30",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:13:06 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "72b18553e8e80ae317f1ec2bc865eb793c005417",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 14:12:09 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "07fdb885380d0e0166911bcfcef0c3072e7d9e22",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 13:34:16 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "76de6543804288127d8ad153738ea040d9c462dd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 13:26:31 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "35a754c2ad91b6b6d15495ae7fa923307ddf3fc6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 13:22:07 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1050c529b6d613449b4ee3599af921411cd3535a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 13:20:12 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "611513ff0429219b7e1593082dbbdcfc1828a5ce",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 13:18:30 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c44c02b59d36d7a636c86a8e6f9f2cb12db2ce49",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 13:18:05 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1e88b0aa38df92432e3b96e337344d5ee214fbd1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:36:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4f486497f7b1bccb747435343ac6c74f46541b21",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:35:38 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "8a37c619db348ad96f56caa05fc0c79ce13cb144",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:34:17 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "87145de1488340f09b3a05e75c2f02f9b1e78349",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:31:48 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "187f59b458c727f5c1c387f54e97a8bdf648e958",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:16:42 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "40baf6e9e6bbbf45bddcde088c7e35e817a72b6c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:08:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "b922a370c2abc0ef20ba5ad8000278182edc5b18",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 12:06:16 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "dfc97f04c163b78be666b60b45e084a96cc0879a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:50:28 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "a1a46d5401e108ca09469ba61c28ff296999c933",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:43:33 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0a105341c955e6012be4ea37638c26089ce0a5e0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:40:15 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "7280ae00044e11c1a234348307fa0c016dc32269",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:40:06 2016 -0700",
+  "message": "Merge-pull-request-2845-from-curran-patch-2"
+},
+{
+  "commit": "c5b9069d4ee0af7cbf99edbad42fc2a81df2d4d0",
+  "author": "Curran Kelleher <curran.kelleher@gmail.com>",
+  "date": "Tue Jun 14 00:06:34 2016 +0530",
+  "message": "Add-link-to-first-mention-of-d3.map"
+},
+{
+  "commit": "51d08f92bdfe973b197c809b376ed5c6fd30956c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:29:42 2016 -0700",
+  "message": "Merge-pull-request-2844-from-curran-patch-1"
+},
+{
+  "commit": "894e1a8f926420319eaf4372d07a8f23a522a2fe",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:29:10 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "51ca9d0c663cae7ca64999138938062b150d9c71",
+  "author": "Curran Kelleher <curran.kelleher@gmail.com>",
+  "date": "Mon Jun 13 23:55:02 2016 +0530",
+  "message": "to-be-inspect-to-be-inspected"
+},
+{
+  "commit": "cb61df0da7373064bffa12de4014985d9ee82afd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 11:10:56 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4f56040b630ad33c14adb8a1d96c85fd5832cb3a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jun 13 09:02:13 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0f5bd679faf91b926df0fe48c2d2c50a8d59b531",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jun 11 08:47:20 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ee0401cb8c31379f4d04913f7a8b07afb2bec96a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 22:17:49 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "29bc8621174c8473194e0cdce7e61f563c1671fb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 17:16:16 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "db76f70288eae813aaf9fb708d9472d8bbd3908b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 16:57:22 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0cf7fef306be89e1fe828a6a06a9c5325ef67137",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 16:40:10 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "0d590866b86a2da8869ba42b42be029871e9e4a5",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 15:10:17 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "46d675a02d8e6fc28c9ebe97cd75b2d41d75c47c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 15:09:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "1561d9c3b7d04eba5bc11d872090aba091adef1b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 15:05:55 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "54a2f3236c744737daa90ecf830c39d911c9bcf8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 14:58:26 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c206737dadce032be017c46acfe202e2e49a4937",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 14:43:08 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c0917022521cb93873ba107acaa1e1868018a006",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 14:17:32 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "9b8fda9ca823d64ee6fe5fa2333231b52b49244f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 10:04:32 2016 -0700",
+  "message": "Alpha-49"
+},
+{
+  "commit": "93105bdf2a0bb0eb1f755b10162cfe5beaf0a06f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 09:58:01 2016 -0700",
+  "message": "Alpha-48"
+},
+{
+  "commit": "9f27b1f302be3825c56b9b20f203ed7a4cac7117",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 09:11:37 2016 -0700",
+  "message": "Alpha-47"
+},
+{
+  "commit": "742432220f4d6e10e8deb5bb07c3e4eba3c5af7b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jun 10 08:52:03 2016 -0700",
+  "message": "Alpha-46"
+},
+{
+  "commit": "335fa18249bcc71e5a31a941cdbd52b785bb6b44",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 17:42:59 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "618216837a134f4a9809d9571c9a089e0629821d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 17:26:52 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6935e55d39b05dcde6485cff24507fce7e828755",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 17:05:19 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6674cb9b4292a031c1f170abd222222db7f7a22c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 17:03:45 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "bf2499f56735bdd27a6c3924d2192b1287b22ae0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 17:01:51 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "5f24ebe3d870d52089106b4ad81b324ffe26df4c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 16:54:31 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ec7ec53a0dadb29272acd0de9fd52028a7e6bffe",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 15:28:39 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ae225491beb39d04cd75b415aa46c677f0cd753c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 15:21:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f14b0e345c3b49ca76f9a72549b394b8a0d6cbe6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 15:16:20 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "aa31a5f100fa93542d1b3439465e40a24ed0fab9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 15:02:03 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "ad2ffe75d2aabd993e371897483c699e400c29f6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 14:56:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "08e05462001e8871c530453c1d249f1b5e5739a8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 14:54:45 2016 -0700",
+  "message": "Add-images"
+},
+{
+  "commit": "45f2e6d3c1a8faed23fad80f1a08c59bb95a4387",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 14:44:51 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "3b2ffd3e04506693572faf49f631b0ead781b6da",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 14:43:38 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f90735f64c12be84b46aefac3f1f1efd7c8dacce",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 14:43:12 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "14c98bb74d55cc82ad0743d05582621c749fb9b7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 14:22:18 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "163696450a6972aa64af8a769bf86b6b05e5bfad",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 13:10:26 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d9e149c93cf2eea1ec4f94b0692ae97029889cf7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 13:07:31 2016 -0700",
+  "message": "Adopt-rollup-plugin-ascii"
+},
+{
+  "commit": "008be55c8a305a443f1e6c50baf559e9977153bf",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jun 9 10:57:17 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "4c345a00b53d185c578c5cf71faef689194b3ae9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 15:46:49 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "aa32a5b3f1701082312faddc7d7fd84240a4dbad",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 15:43:54 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "6098f39667ed422e84ab15e046c418cf84b98436",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 15:43:19 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "174e3c976bcacb8f566875c561bbec3c89e0e787",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 13:06:07 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "c87a91c790ed4aa965e5eb71da909766a89c6256",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 12:14:11 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "aa889a660a1925cda90389d89904b4ca3e3d1970",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 12:11:25 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "55c840af22ba555e2e9cf723574e098059a87d13",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 12:10:41 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "8deea6b21bb22a3d8dc7ef8665acc151ac7fa168",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 12:04:44 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "e83522d148953c990585268d7027141d76341c32",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 12:01:57 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "34629b0897a27879bd77530928ca86cfe691afd7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:53:10 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "2a0c9c896cc80c9432b93a52e9900e4ef236feda",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:36:40 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "61c34ace8d0a50187305eff9865a7d7a734f0c53",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:36:22 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d46bbc48d2f4eab61694c0772d5cf6e598d62266",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:32:09 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "11f26ea4be0368d01166b632bf012060932b7c85",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:29:53 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "bdaa3883111be2f689274e43fcfbbe3e284fef4b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:16:46 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "f1ec48388d130d9cd89ae5037e24bea3a98e68ab",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:16:13 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "425a97a8d6b5cf2eba96ea6f42517b54ac70e194",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:15:42 2016 -0700",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "9e2e9946f95485f99ffbbbe2a30e25788095fa18",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 11:09:21 2016 -0700",
+  "message": "Ch-ch-ch-changes"
+},
+{
+  "commit": "f562132d1c8fde9182313eecf1aee26ecfb67812",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jun 8 10:18:06 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "8d9e294d662e86d15f74acd8a5e8cc39952e1df7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 7 22:00:06 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "45073c587cbb90f9948adee4945b8ea677fcda33",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 7 21:53:27 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "67d01c05cb9a8238c5d85d742efa2394e6846a3f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jun 7 21:43:51 2016 -0700",
+  "message": "Alpha-45"
+},
+{
+  "commit": "e7194db33090a0afc06c77a959594361ffb949df",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue May 31 16:07:57 2016 -0700",
+  "message": "Fix-section-links"
+},
+{
+  "commit": "dd5252feb6c5c9a877715ac8811a7e23a363b68f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu May 26 09:05:28 2016 -0700",
+  "message": "Update-d3-zoom"
+},
+{
+  "commit": "aadff6ebc0cada9c445d7d4698ade195459a22f9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu May 26 08:58:26 2016 -0700",
+  "message": "Add-missing-exports"
+},
+{
+  "commit": "14434c578c9ea484951755389fca88bbad1f6b66",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu May 26 08:51:30 2016 -0700",
+  "message": "Add-missing-d3-drag-exports"
+},
+{
+  "commit": "d09543d597ddaeec4e98d596139d6c9bf84fe197",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 25 22:22:55 2016 -0700",
+  "message": "Update-d3-zoom"
+},
+{
+  "commit": "1cb0e5e73c79aa59d0b60699bcf2ef4e192fe3eb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 25 17:01:19 2016 -0700",
+  "message": "Update-d3-zoom-d3-axis"
+},
+{
+  "commit": "bf95c3efe72c94a260fe0c5964bd4db2b339fb23",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue May 24 15:55:28 2016 -0700",
+  "message": "Alpha-41"
+},
+{
+  "commit": "6f763fade4adec178038abfdd9fb073a2ab52fd4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat May 21 22:02:22 2016 -0700",
+  "message": "Hints-on-finding-the-source"
+},
+{
+  "commit": "90f8fcacba15e161e2fbe4bed6e28ee81ca7b222",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 18 14:05:28 2016 -0700",
+  "message": "Link-to-custom-bundle-example"
+},
+{
+  "commit": "3b3def91750d7fbf313a5638fbd3df07c562a4ba",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat May 14 22:05:58 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "c1254fc520246b18cd68f877a7cfa1bef5bd03cb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri May 13 11:16:18 2016 -0700",
+  "message": "Update-d3-force"
+},
+{
+  "commit": "96b837602be3cf549fea9c260a83e4fa60a5f826",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri May 13 10:44:24 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "3e826430fc090f7ca340aa28ce6c67a10c590fcd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri May 13 09:20:56 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "e546ddc8a038ad301368ed83c4bbc85b831148aa",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri May 13 09:18:34 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "d50f6c5a288d4f1e0d1bd406dc0ebb1b925b9180",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri May 13 09:16:17 2016 -0700",
+  "message": "Merge-branch-4"
+},
+{
+  "commit": "a155af92239950b52e68df4a5a743bcaa47bd65a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri May 13 08:50:10 2016 -0700",
+  "message": "Update-README.md"
+},
+{
+  "commit": "d6765d8f96bea81134c4a9847ff4aa39c63fa420",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu May 12 13:44:17 2016 -0700",
+  "message": "Update-d3-force"
+},
+{
+  "commit": "aa47c28816ff6e02a866277ee0dc9d554a2bb557",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 11 16:46:45 2016 -0700",
+  "message": "Update-d3-drag"
+},
+{
+  "commit": "6e5c47cf42246f2b412f9dee1ffdea2875219302",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 11 08:51:08 2016 -0700",
+  "message": "Oops-forgot-to-export-symbols"
+},
+{
+  "commit": "c77c2b7f4302c14b227af9ca397143e3cd235550",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 11 08:44:04 2016 -0700",
+  "message": "Update"
+},
+{
+  "commit": "1813b15d2c4bfdf6bc57b0afab7e7ceaa27c08d6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 4 17:31:01 2016 -0700",
+  "message": "Update-generated-files"
+},
+{
+  "commit": "9cc9a875e636a1dcf36cc1e07bdf77e1ad6e2c74",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 4 17:29:22 2016 -0700",
+  "message": "3.5.17"
+},
+{
+  "commit": "c68cb1ccfb20f175c53d9e1133756b47e4ea1fbc",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 4 17:28:56 2016 -0700",
+  "message": "Adopt-npm-version"
+},
+{
+  "commit": "1d678a7cc531be23219b72552c257ea3f368ca38",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 4 17:27:30 2016 -0700",
+  "message": "Merge-branch-master-of-https-github.com-lukasappelhans-d3"
+},
+{
+  "commit": "44b98b051ad580ddfd3ca5e757b85ea676e0d2f9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed May 4 17:23:42 2016 -0700",
+  "message": "Update-uglify-js"
+},
+{
+  "commit": "189c1b33a52fef556dcb0de2d0e80863108032d2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue May 3 11:30:04 2016 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "6d0653f5ae5d1deaf3cbc43324d8f5d571934f49",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon May 2 13:44:35 2016 -0700",
+  "message": "Add-missing-d3-selection-exports"
+},
+{
+  "commit": "22c288203a1e210eb4faa4fa3497dfdcb92c7e69",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon May 2 09:27:46 2016 -0700",
+  "message": "Update"
+},
+{
+  "commit": "8108bc7bf2ed56b8e3945ae7e0dfb0a282e41884",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Apr 29 11:22:34 2016 -0700",
+  "message": "Update-d3-timer"
+},
+{
+  "commit": "5ae4af1818d46195fa3cc3eea83f121ee00f5d7c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Apr 29 10:51:52 2016 -0700",
+  "message": "Update-d3-force"
+},
+{
+  "commit": "2e40081652be42e86aa5aeaff48e68ec3d3ff5f4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Apr 29 09:12:01 2016 -0700",
+  "message": "Update-d3-timer"
+},
+{
+  "commit": "45afb0532eee9ec39757f93138c7119ac3d13fff",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Apr 28 16:00:57 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "c3a8d8768071b2f7359fcfe3cb1513170ae8ae0d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Apr 28 15:58:41 2016 -0700",
+  "message": "Update"
+},
+{
+  "commit": "182ce0189d0d7c293d72c4c7ed792bfd8b12f3fd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Apr 25 15:27:17 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "193bc686698cd60ed40d14dd11bb7d53dd42ea8b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Apr 25 15:26:55 2016 -0700",
+  "message": "Update-README"
+},
+{
+  "commit": "712eca41a187bbcfd36ede4817a378da2acd1866",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Apr 25 15:25:15 2016 -0700",
+  "message": "Add-link-to-4.0-branch"
+},
+{
+  "commit": "9db1689a9f79e93a54b6379b426bbc16b919a65e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Apr 20 07:19:57 2016 -0700",
+  "message": "Merge-pull-request-2804-from-vanshady-test-zhCN-locale"
+},
+{
+  "commit": "33d9034a0c954849b8f9c52dcccf6b873d908a79",
+  "author": "Minwei Xu <faceswilliam@gmail.com>",
+  "date": "Wed Apr 20 05:00:33 2016 -0700",
+  "message": "chinese"
+},
+{
+  "commit": "b1ea756a3cb7c4ea1a5a650caa7b62ac9d0e59c0",
+  "author": "Minwei Xu <faceswilliam@gmail.com>",
+  "date": "Wed Apr 20 04:52:05 2016 -0700",
+  "message": "locale-zhCN"
+},
+{
+  "commit": "1e7a0cf34e8771201342b770da0e72be448f5c52",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Apr 1 14:39:50 2016 -0700",
+  "message": "Add-d3-hierarchy"
+},
+{
+  "commit": "dab64a2c662d01765352c0b67fab589210fb26bb",
+  "author": "Lukas Appelhans <l.appelhans@gmx.de>",
+  "date": "Fri Apr 1 00:00:02 2016 +0200",
+  "message": "Fixes-2025-for-me"
+},
+{
+  "commit": "fcc84c7abc143d667168cf1e30a83cc599795a16",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Mar 15 10:20:44 2016 -0700",
+  "message": "Use-glob"
+},
+{
+  "commit": "61d8fa8641d4b551ebd756637fb6790f826d379f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Mar 14 13:15:17 2016 -0700",
+  "message": "Drop-faucet"
+},
+{
+  "commit": "3896582667ec03a52efe847fd05c34cb12cd2bfe",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Mar 14 12:25:49 2016 -0700",
+  "message": "Windows-build-compatibility"
+},
+{
+  "commit": "a520723b3421e2faf80a33992d913a2c59356ae8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Mar 11 10:54:29 2016 -0800",
+  "message": "Fix-2761"
+},
+{
+  "commit": "7fb1eccacdf3274dc2836252e5f65d3a58af814a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Mar 7 20:14:04 2016 -0800",
+  "message": "Update-d3-shape"
+},
+{
+  "commit": "1f4043c3d44b51682f10ff77341a52b2ac204cd5",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Mar 6 15:08:16 2016 -0800",
+  "message": "Fix-postpublish"
+},
+{
+  "commit": "23ca5bef2567aa79edd20e452d7cc78717cec01e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Mar 6 15:06:59 2016 -0800",
+  "message": "Update"
+},
+{
+  "commit": "f4106ef96513b30f7e0059eebc916f56e999c672",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Mar 4 09:54:11 2016 -0800",
+  "message": "Create-zipball-on-postpublish"
+},
+{
+  "commit": "5d1d48d932971a77967b82e0c3674b81a8674acd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Mar 2 22:09:48 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "8a775aa493eb4d9dfdffbdb5a7d3a661c70529b3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Mar 2 15:12:32 2016 -0800",
+  "message": "Update-d3-transition"
+},
+{
+  "commit": "161e3d53da7c50b4a73723545757c29f3048844b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Mar 2 09:14:38 2016 -0800",
+  "message": "Add-transition.selection"
+},
+{
+  "commit": "06171568f9d3dbc87985b06b62a788c54fecd8cd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Mar 2 09:13:41 2016 -0800",
+  "message": "Add-merge-methods"
+},
+{
+  "commit": "bf8f43f01bd18751b6d2f697bf02c95babcd15ba",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Mar 2 09:11:56 2016 -0800",
+  "message": "Update-d3-request"
+},
+{
+  "commit": "6e017f22f46e8496f34d2690413533a18ff7f42d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Mar 1 16:07:30 2016 -0800",
+  "message": "Fix-n"
+},
+{
+  "commit": "40951a7af30ad6dbdeaaf642172cda6fff40ef21",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Mar 1 13:31:01 2016 -0800",
+  "message": "Fix-2755"
+},
+{
+  "commit": "58c872235b0fb962c3d838812e3dace37b505e85",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 29 15:55:55 2016 -0800",
+  "message": "Update-d3-time"
+},
+{
+  "commit": "359e71f871333c95992bee76318442f135b671e8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 29 11:50:30 2016 -0800",
+  "message": "Match-npm-version-s-convention"
+},
+{
+  "commit": "dee64429860e920e6cd05793b5c8a4408ba63dc1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 28 09:37:40 2016 -0800",
+  "message": "Update-README"
+},
+{
+  "commit": "ed8e161b981227517940bc4aa93ee9cef5fcd0d1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 28 09:37:03 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "9620eb29e3df8bf56f699e7c15c8f215ae7dccde",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Feb 26 15:30:24 2016 -0800",
+  "message": "Update-d3-transition"
+},
+{
+  "commit": "294802ad4531bc0ce8c13291143b3fded91645a7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Feb 26 13:46:19 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "4bacdaf35cf033ac6f2bba02c9e23fa0d52871df",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Feb 26 10:18:09 2016 -0800",
+  "message": "Update-README"
+},
+{
+  "commit": "c750efd7a66a87a1c36b2485a1ab7d9cd201abc7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 23 21:39:06 2016 -0800",
+  "message": "Update-d3-time-d3-transition"
+},
+{
+  "commit": "400c3d73b2506b763d4ece130945cc9babfc920f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 23 19:43:07 2016 -0800",
+  "message": "Update-d3-time"
+},
+{
+  "commit": "e541c4de53e87df3dec8323cc76c9808198b206a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 22 20:53:39 2016 -0800",
+  "message": "Update-d3-transition"
+},
+{
+  "commit": "31c15683516013b0e7fcb54908701668a0f8872b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 22 20:15:40 2016 -0800",
+  "message": "Update-d3-dsv-d3-request"
+},
+{
+  "commit": "4e3ace7b49f2e972cce61e46658479e964a516ef",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 22 15:56:43 2016 -0800",
+  "message": "Bump-version"
+},
+{
+  "commit": "acc65d09ceb1c34412647045c290a8038b31d423",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 22 15:56:27 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "afd8a439ac9a30e05a0480f903689cf3432d14cb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 22 09:25:18 2016 -0800",
+  "message": "Update-d3-scale"
+},
+{
+  "commit": "734620ee92e26ed2e8cf87881624faeffdd7ff88",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 22 09:05:50 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "945942e0af43ef5fa1d8b75111f429e1c61a06b2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 18 09:50:39 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "c36befc7361cd61538294048c387a8a407b65dd1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 17 17:37:32 2016 -0800",
+  "message": "Only-use-createElement-for-HTML"
+},
+{
+  "commit": "b561c02b62b7368bc61ac0c54d50946dd0f8ac98",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 17 17:36:45 2016 -0800",
+  "message": "Remove-component.json-continued"
+},
+{
+  "commit": "7504df592f2a0eac00bb4c7b2200707bcf8dd543",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Feb 13 15:07:53 2016 -0800",
+  "message": "Remove-component.json"
+},
+{
+  "commit": "6146802137c53e9f878cc94723745375e4e1f7e9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Feb 13 15:06:00 2016 -0800",
+  "message": "Update-d3-bower-on-publish"
+},
+{
+  "commit": "76fbe7b8d69889acef8270d1ad13c625d86a3cee",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Feb 12 15:11:22 2016 -0800",
+  "message": "Update-d3-timer-d3-transition"
+},
+{
+  "commit": "65e0e182da6dfd9b10a13ac15b91da28fa920a52",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Feb 12 13:51:48 2016 -0800",
+  "message": "Update-d3-transition"
+},
+{
+  "commit": "0ba0c299b4fbdc843536580bef095220e2732dca",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 17:50:59 2016 -0800",
+  "message": "Update-link"
+},
+{
+  "commit": "5104f9f22bb86ca6ac3bb1bcfc7aac9594bd4eb4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 15:07:56 2016 -0800",
+  "message": "Bump-version"
+},
+{
+  "commit": "05ec9429a12255a4f508f2f994ea799460b4f1af",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 15:02:54 2016 -0800",
+  "message": "Update-d3-transition"
+},
+{
+  "commit": "3e0ed57609941411ee83b78cca5f1bea7cf155f0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 13:05:36 2016 -0800",
+  "message": "Update-Bower-s-ignore"
+},
+{
+  "commit": "0ac59030b9a934ccb2446fed016b34e55284021b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 11:45:18 2016 -0800",
+  "message": "Replace-Makefile-with-package.json"
+},
+{
+  "commit": "18dd2b97bac6a95cbbf40d17051640170a53e752",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 11:43:39 2016 -0800",
+  "message": "Merge-branch-dragstart-svg-use-internet-explorer-of-https-github.com-stefwalter-d3"
+},
+{
+  "commit": "de7e9ef1049c567a2f9e3808367f98aec7906f9b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 10:34:57 2016 -0800",
+  "message": "Update-d3-timer"
+},
+{
+  "commit": "9d9be7b6fe72606af0f94057d450c8fa5dd402c5",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 11 09:41:02 2016 -0800",
+  "message": "Update-d3-selection"
+},
+{
+  "commit": "28123415d067e8d019c9551c4878fd6d79b37501",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 10 15:08:56 2016 -0800",
+  "message": "Update-queue-description"
+},
+{
+  "commit": "62c7699953fae8290fafe91684be270f622adc2f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 10 14:48:55 2016 -0800",
+  "message": "Fix-links"
+},
+{
+  "commit": "92b8ef304257edcdd14e5580cc344580b4693630",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 10 12:10:50 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "a4a7b4596f398a3ce33ef764ab7518aa44ea0c96",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 10 11:17:55 2016 -0800",
+  "message": "Oops-I-meant-d3-timer"
+},
+{
+  "commit": "606771a290dbd88dda1bc63ed200f240346cedeb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 10 10:34:24 2016 -0800",
+  "message": "Update-d3-time"
+},
+{
+  "commit": "849137764cc7327edc754058d41c43f7bc8d866d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 9 16:01:18 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "23e383f4a88683a2e8c4c893731d0e5e110683e3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 7 19:47:35 2016 -0800",
+  "message": "Bump"
+},
+{
+  "commit": "295901f116847422020e83b23fc7596ab444726e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 7 19:46:19 2016 -0800",
+  "message": "Rename-of-rollup-plugin-npm"
+},
+{
+  "commit": "eb4748da27a68ef561ca0080ffc087f1ca9dd701",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Feb 5 14:24:13 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "d71c996a9ce231ec4d53a891e305f3d55429bcf1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 4 16:28:50 2016 -0800",
+  "message": "Update-README"
+},
+{
+  "commit": "fba10266324baf2c619787eb04d8344bff08285e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 4 16:22:17 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "74cd3b26ca9366fff26dea53e948f4cf14b8b38b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 4 13:30:54 2016 -0800",
+  "message": "Update-d3-dsv-d3-request"
+},
+{
+  "commit": "dbdfede9d0ffa37136b9dd8b31e8bbde8d11e798",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Feb 4 10:04:53 2016 -0800",
+  "message": "Update-d3-ease"
+},
+{
+  "commit": "54e19b0d963ccc9d2c9a0a8875f9f0e18072741f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 3 14:06:53 2016 -0800",
+  "message": "Update-d3-scale"
+},
+{
+  "commit": "37b2879d59d5664c72afeeaa9654ee3ab1130231",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 3 11:27:41 2016 -0800",
+  "message": "Update-README"
+},
+{
+  "commit": "e6b999e5181a7e4fba740536e68205719ced3d4e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 3 10:51:34 2016 -0800",
+  "message": "Update-README"
+},
+{
+  "commit": "be8ce1f82fd7210c417f2329fbe0b7af358978ac",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 3 10:03:35 2016 -0800",
+  "message": "Bump-version"
+},
+{
+  "commit": "05e932d3d292f055a4a30476344752eb1236cda5",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Feb 3 10:03:07 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "caa92cce31c3e2cd864b3f144652216f500eb81d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 2 09:40:20 2016 -0800",
+  "message": "Expose-d3.timerOnce"
+},
+{
+  "commit": "c5182e724d1f29695ce19c2bab51b5e4d2ed77ee",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 2 09:10:12 2016 -0800",
+  "message": "Update-d3-timer"
+},
+{
+  "commit": "bf0f88b6bc67faff0a95b89f4d911fd2cfc08fdd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 1 13:58:34 2016 -0800",
+  "message": "Back-port-d3.-transpose-zip-from-d3-array"
+},
+{
+  "commit": "644a03c17b405cd4e7108fe55bf64c607b309837",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Feb 1 12:30:13 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "e5c80a7d427ec4f15c259fcdb757d936357c76f1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 29 10:51:26 2016 -0800",
+  "message": "Push-after-publish"
+},
+{
+  "commit": "c02ef14d53181a086c9f7e691c46795ab7beeaca",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 29 10:50:58 2016 -0800",
+  "message": "Generate-anonymous-AMD"
+},
+{
+  "commit": "d8c6cb377c0ade342233ce2c29849e1fc1b804c9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 28 10:53:43 2016 -0800",
+  "message": "Update-d3js.org-on-postpublish"
+},
+{
+  "commit": "730250e96c72d7c643eb654e02956d651081c3ab",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 28 10:50:07 2016 -0800",
+  "message": "Alpha-12"
+},
+{
+  "commit": "fc4b7f33b9e9dd804dd63eb67e5cc261f7cd4a65",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 28 10:49:59 2016 -0800",
+  "message": "Update-d3-shape"
+},
+{
+  "commit": "9cdd2cd31e923b48b088a6d345aa756ce969f7a2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 27 14:51:58 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "05fd32dd68b49313502e9501792ef015bfc8c153",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 27 09:30:55 2016 -0800",
+  "message": "Fix-2722-case-sensitivity-of-selection.append"
+},
+{
+  "commit": "c6fcd617f0708d9bd83aac7fa2242241fd1d660c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 22 21:11:53 2016 -0800",
+  "message": "Add-d3-queue-release-alpha-11"
+},
+{
+  "commit": "0f91ff93b9ef17983211467534823b92e169641f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 22 15:56:10 2016 -0800",
+  "message": "Alpha-10"
+},
+{
+  "commit": "ac6c9e967251e7b093b5d5dcbe57409cbe39315f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 20 10:34:02 2016 -0800",
+  "message": "Update-d3-selection"
+},
+{
+  "commit": "f749f7090878b2c0c2eb7ae1032f1b70d2567607",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 20 09:55:52 2016 -0800",
+  "message": "Bump-version"
+},
+{
+  "commit": "8d83cca7f705c4bae291be943e133291c6d34dc2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 18 14:57:21 2016 -0800",
+  "message": "Update-API-reference"
+},
+{
+  "commit": "02d2581d1718586272df456bfc4bf0ea237fe6c7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 18 14:55:06 2016 -0800",
+  "message": "Update-link"
+},
+{
+  "commit": "7c26322f324f24833158ddb8f3a4f30cf7acb086",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 18 14:52:42 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "783665824c9078901956c6aa83ef9374b9d807c0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 14 17:33:41 2016 -0800",
+  "message": "Update-d3-voronoi"
+},
+{
+  "commit": "34de93781251691cf6095c24510355f404df031c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 14 17:19:47 2016 -0800",
+  "message": "Update-d3-quadtree-d3-voronoi"
+},
+{
+  "commit": "cfabd5ca42da27289b6951ad82820e62ce349b29",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 14 16:18:50 2016 -0800",
+  "message": "Update-API-reference"
+},
+{
+  "commit": "c22314f2f82805d1b22560fb7fd232d1c951d63d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 14 16:06:20 2016 -0800",
+  "message": "Alpha-5"
+},
+{
+  "commit": "12137ae50327188e21e9225f7aa40d4c3fc41a77",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 13 17:11:32 2016 -0800",
+  "message": "Add-publishConfig"
+},
+{
+  "commit": "520b6fca74b9db0ae522bfeed72921115dad5d1f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 13 11:55:16 2016 -0800",
+  "message": "Use-next"
+},
+{
+  "commit": "f982b60767c3319990397976f7296bbd29773969",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 12 10:39:12 2016 -0800",
+  "message": "Update-d3-scale"
+},
+{
+  "commit": "eb2e0b8a50d1aca16ed33b37a444f85fa785d9af",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 12 10:31:37 2016 -0800",
+  "message": "Update-d3-axis"
+},
+{
+  "commit": "bb9c4c6913f9b22d0dcf1959ea4afe3d648c5e44",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 11 15:37:16 2016 -0800",
+  "message": "Merge-pull-request-2708-from-ferlores-master"
+},
+{
+  "commit": "b5dc7e27c0247cfff955bfcf9b0b8309c805421d",
+  "author": "Fernando Lores <flores@lendingclub.com>",
+  "date": "Mon Jan 11 14:27:22 2016 -0800",
+  "message": "Fix-browserify-key-in-package.json"
+},
+{
+  "commit": "af56c8cfa4ef80132cb7fef807d95fbc3235d04b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 11 11:22:42 2016 -0800",
+  "message": "Update-API-reference"
+},
+{
+  "commit": "de69bae8a532b0818793df6e4bc22d10e76373ea",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 11 11:21:37 2016 -0800",
+  "message": "Add-d3-voronoi"
+},
+{
+  "commit": "a574239728d0457ef4e730fe05bc616e9b6de985",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 11 11:16:37 2016 -0800",
+  "message": "Add-d3-quadtree"
+},
+{
+  "commit": "696f794d82bac7ebd2da0a420286a07184f9ebc1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 11 11:12:10 2016 -0800",
+  "message": "Add-d3-polygon"
+},
+{
+  "commit": "5db0abdbb60b066f75da5b0c227b2ccc11b3ad70",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 8 16:03:00 2016 -0800",
+  "message": "Bump-version"
+},
+{
+  "commit": "945c21e65693a25038ecfe5b961459445fafe939",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 8 15:28:50 2016 -0800",
+  "message": "Update-d3-axis"
+},
+{
+  "commit": "e43d4bed80c0482319e8360d29f882d6a52503c2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 8 14:08:01 2016 -0800",
+  "message": "Add-d3-axis"
+},
+{
+  "commit": "9a59b4fda2428e6d0ef7d76dd850e305223445aa",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 8 10:34:48 2016 -0800",
+  "message": "Fix-typo"
+},
+{
+  "commit": "8a141282907f1fee73e96e1bf32948d554c93932",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 8 10:33:25 2016 -0800",
+  "message": "Document-inherited-methods"
+},
+{
+  "commit": "51198d3e6ccd5496bcb85fbe71baf96b74f60c53",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 15:51:42 2016 -0800",
+  "message": "Fix-links"
+},
+{
+  "commit": "cffa2aa882fe537b91f38d3d2edb201116db31ca",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 15:38:12 2016 -0800",
+  "message": "Update-alpha-release"
+},
+{
+  "commit": "dd6f063c2a0d99ee1cd5106ce9fb49bc4d5994b7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 15:37:46 2016 -0800",
+  "message": "Update-d3-request.-Fix-d3-time-format-exports"
+},
+{
+  "commit": "e40f18ad2571b87929a79e8e2b4a3f216dfcad85",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 15:28:45 2016 -0800",
+  "message": "Update-d3-shape"
+},
+{
+  "commit": "de114b5749421c3d0b49c56be031c30e7610577f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 15:06:39 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "51f86e7cbd6b836c18462d7ebd235195b2a61b70",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 13:10:57 2016 -0800",
+  "message": "Update-d3-ease"
+},
+{
+  "commit": "6ddc10ebce9ebbf20326fe3e886f2a664e7ec39b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 12:55:47 2016 -0800",
+  "message": "Update-d3-random"
+},
+{
+  "commit": "28491606a8a9aae41c15f4bc87850c732d7cd4d8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 12:42:41 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "8c7fc17cbc81c1d45b7385636863eedf909c4d41",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 11:58:09 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "2e57bda4374e2183dbd628694604585bd3dc8bf7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 11:57:41 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "82cc135bf76c7b9e9e544ead3ce0d12da45f7ec8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 7 10:50:09 2016 -0800",
+  "message": "Update-d3-selection"
+},
+{
+  "commit": "65ac67d6de9c0ab5194b3cab187bac4e4cb39d1b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 12:50:33 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "ed19b9d46006c30c0c239c13650c1404ad6c5cf0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 12:50:19 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "530108c24cb587cbcc101143e2834185651b27c3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 12:39:00 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "70738cb02ea6eae776c9bf136da57f7ce9d6b4f6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 12:32:13 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "8990828645ebc9a3cb112fcf822d00686a21c610",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 11:25:38 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "f795f710a308c1e684784b3432307b3ef4a5088b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 11:20:44 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "27cb77f912d672f79fa35b6666175472b9c80d30",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 11:01:15 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "602325177903b6c9d05ff75c55bc3b1ceca12932",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 10:50:22 2016 -0800",
+  "message": "Fix-typo"
+},
+{
+  "commit": "1b43272ae81ff8154fff7182a03fe3c18d46569b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 6 10:45:58 2016 -0800",
+  "message": "Remove-trailing-comma"
+},
+{
+  "commit": "98ef56d3af256bf46c813cd16e488b81b53eb828",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 17:27:48 2016 -0800",
+  "message": "Use-explicit-versioning-for-prerelease"
+},
+{
+  "commit": "704cc56be7de69b4f777d9686474aca284620e1c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 17:19:03 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "9ab0953a1d9d9b0774d271f5c1f152b24786f3b7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 17:00:11 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "99f2250b885105398064ae877ec2c49df8c2a8d7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:53:43 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "02d558599764e03f216028687ea5d8c595fe020e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:53:22 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "e5fde9261f59d031eacd03e469eab8c206d3d6ae",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:52:12 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "c9439441496d7ecacca20096d4b03f5fd743ce40",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:41:04 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "726c268de2edd30c7ca547feb2ba726771a281fd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:39:53 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "8fb08cbb29642e921f4096b1603c7c3e84d0e32b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:34:54 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "76352c6b94e3a63926de15e319a56e9881bd5bf5",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:34:28 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "7519ca623eaa8eb53dce2e3b862fbaa938331f4c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:26:23 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "aac34b628eb2ae1b813ea74736e2c2a22f03429e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:25:18 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "010a22c7909fa1f7649eb7ee6c66ff48cd755ca8",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:06:51 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "df8a56b5167e2a91826ebf7867983627f082436c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:05:39 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "fc0a02894aef3074bd069ea4e477c4a4d468a440",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 14:04:44 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "f28df3ec220432b13cba7de4f78f7bc4a5fdfc90",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:50:31 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "233c7f857ca1c374d51d6d7b7185c6affd3b4f16",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:47:01 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "14382e9502eab8af82aef02d0f7c6fdc2983774f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:45:33 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "e467730431bfa5d9c54e3782bf56a2ecd27be2ff",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:42:10 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "e31731d6ad15e049e5e9c898642a0ba7594d0d2e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:41:52 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "49dcc42f5ac1b66ce75192ba3a8c1dd100491167",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:28:50 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "7f6273bb7f05e4372623b3c6ff33f19521d4c8f4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:28:14 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "19cac7c4fa8d310d14b2400dc81d852ecfb3aca3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 13:19:37 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "75370b36d4d57b6174b8e35ebce2cb4901ab6c0f",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 12:52:22 2016 -0800",
+  "message": "Publish-prerelease"
+},
+{
+  "commit": "22721156bf569afceaae94cecfca5bb745513407",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 10:29:18 2016 -0800",
+  "message": "Update-d3-ease"
+},
+{
+  "commit": "4205ae9cede88a08e4b3df4599393e7102507a09",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 10:20:57 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "88c5b40d6a9ae1dd23430cbe8631e74bffe14a8a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 10:13:41 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "64b972e29cd06ae7afb226e0a7aa3726494f25d1",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 10:08:12 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "19f74328dafb4cb43f4289d53550c44cfef8fc9a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 09:54:11 2016 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "bd0529fed4aa5bb4c28ea58b9c1cfb8725940dc4",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 09:50:32 2016 -0800",
+  "message": "Specified-specifier-is-awkward"
+},
+{
+  "commit": "a5fb7b43c46d728a13acc5d01bf713eb7f3a83aa",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 09:12:25 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "3b353413c9abecc9612cba83f516e4a0ebbc9398",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 09:12:00 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "e1732c7391fa90048136c35b34df473fa6187a10",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 09:11:28 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "4116e988bf4a885df03dd5673faac8f9f2d958a3",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 09:05:07 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "727fff9f5c04b20f668620430e5abab97b90a346",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Jan 5 08:55:13 2016 -0800",
+  "message": "Checkpoint-API-reference"
+},
+{
+  "commit": "17cc510c66123b678509d2c8e4847a01db710176",
+  "author": "Stef Walter <stefw@redhat.com>",
+  "date": "Wed Sep 9 12:38:50 2015 +0200",
+  "message": "Fix-drag-behavior-on-for-svg-use-elements"
+},
+{
+  "commit": "8cb031fef51a850267d2b9b89ded0d6a6b208f9d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 4 17:21:58 2016 -0800",
+  "message": "Rename-scaleUtc"
+},
+{
+  "commit": "4a04bdebf722c1b686e4bf523d1f90bef61aca1e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 4 17:20:06 2016 -0800",
+  "message": "Rename-utcFormat"
+},
+{
+  "commit": "51fb7e9ad3664b82174e8aff266fcbdcdfc008e7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 4 17:10:00 2016 -0800",
+  "message": "Add-d3-selection"
+},
+{
+  "commit": "f69008d6cf62d51fa56cba34b29c4c30fcba7aac",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 4 17:06:04 2016 -0800",
+  "message": "Add-d3-scale"
+},
+{
+  "commit": "a70c0e58fdd12efe9b01fe6bb419a2606475cf83",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 4 17:05:54 2016 -0800",
+  "message": "Add-tests"
+},
+{
+  "commit": "ff9f8ac582188a2eae8f7abbdd7a7616c3dc0283",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 4 17:03:16 2016 -0800",
+  "message": "A-few-renames"
+},
+{
+  "commit": "8ff4bedd44ccaab898222afe42ea15ac8ebd4a66",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 2 09:31:18 2016 -0800",
+  "message": "Add-comment"
+},
+{
+  "commit": "b55d7a3c9445298cd4b64d67db17834f518043b6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 2 09:28:32 2016 -0800",
+  "message": "Add-d3-format-d3-time-d3-time-format-d3-timer"
+},
+{
+  "commit": "df9e8efea49c0764cd11f4149dda54efe6968a38",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 2 09:16:22 2016 -0800",
+  "message": "Add-d3-dispatch-d3-dsv-d3-request"
+},
+{
+  "commit": "1a8aa7220e56b1b069a195e1b31e87ab861f63e9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 2 09:12:35 2016 -0800",
+  "message": "Flatten-exports"
+},
+{
+  "commit": "9f96bf53adc04af1abf5649f0216ad33bd232a31",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 2 08:53:17 2016 -0800",
+  "message": "Update-copyright-year"
+},
+{
+  "commit": "d030eee80e9102e46e411688a69b7f8168345bf9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 1 21:41:20 2016 -0800",
+  "message": "Checkpoint-4.0-branch"
+}]

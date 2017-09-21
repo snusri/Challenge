@@ -1,0 +1,288 @@
+[{
+  "commit": "41dad6467234c0decf68608a760e46a882d5b80e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Sep 3 11:25:46 2017 -0700",
+  "message": "4.10.2"
+},
+{
+  "commit": "183ba0bfbb45196f4e1fa0088faf9bc1239e30d0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Sep 3 11:25:39 2017 -0700",
+  "message": "Update-d3-timer"
+},
+{
+  "commit": "012041cd9fd81e268602afdecafc5ea6bfa13dc0",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Sep 2 15:31:45 2017 -0700",
+  "message": "4.10.1"
+},
+{
+  "commit": "39154c570116ca4c6972a7fa2d29e0b82b187728",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Sep 2 15:28:43 2017 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "5524246f04670905904873eb6692159315a111cc",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Sep 2 15:24:38 2017 -0700",
+  "message": "Remove-package-lock.json"
+},
+{
+  "commit": "62faf7d0fd38708cc17ac90cc1dc9a1af22f798e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 14 14:03:03 2017 -0700",
+  "message": "4.10.0"
+},
+{
+  "commit": "5d399966bdbe58f0e5249c28b92454df0946fa39",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jul 14 14:02:38 2017 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "e6cab562e81d4847cc8e581f7ae638e86bac3b34",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue May 16 07:50:13 2017 -0700",
+  "message": "4.9.1"
+},
+{
+  "commit": "e32895d511198a7ed0e505fb1b8bb484cf614460",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue May 16 07:50:09 2017 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "cc59d86abd2eab20f2641c1eca62e3152a0f7766",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon May 15 12:20:34 2017 -0700",
+  "message": "4.9.0"
+},
+{
+  "commit": "0a58fc3b2134a4520121eb064502b899440eeeeb",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon May 15 12:20:15 2017 -0700",
+  "message": "Update"
+},
+{
+  "commit": "02d5392d825930b2bd27e87d1d9bc44a639e10f6",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Apr 14 22:35:56 2017 -0700",
+  "message": "4.8.0"
+},
+{
+  "commit": "aef844fbbedad6bd34e80a80c8d39bce96447efd",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Apr 14 22:35:50 2017 -0700",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "514a18676a6a85d968d20ce0929246220917437a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Mar 24 09:07:03 2017 -0700",
+  "message": "4.7.4"
+},
+{
+  "commit": "fc59f348b973f90fef52d4031998a4c2e5f47b0b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Mar 24 09:06:47 2017 -0700",
+  "message": "Update-d3-zoom"
+},
+{
+  "commit": "9d493667aa192e35948508cd3fe0623bf6631043",
+  "author": "Curran Kelleher <curran.kelleher@gmail.com>",
+  "date": "Wed Mar 22 20:24:56 2017 +0530",
+  "message": "Update-year-to-2017-in-License.-Closes-3084"
+},
+{
+  "commit": "4227c3c2e49f7a0f4dc6fd161e6d181294e2aa3a",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Mar 13 09:10:29 2017 -0700",
+  "message": "4.7.3"
+},
+{
+  "commit": "dc09d5aed41d3c9750cf828d350c7c3a7af17091",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Mar 13 09:10:02 2017 -0700",
+  "message": "Update-d3-geo"
+},
+{
+  "commit": "3c307f6fceef234b0f70b2a4cbd72ebe4b6f566b",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Mar 10 10:29:59 2017 -0800",
+  "message": "4.7.2"
+},
+{
+  "commit": "f7b9b35807690a077aeb35e8054e43a509878457",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Mar 10 10:29:16 2017 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "ba3e6c489019c242d90561e223be2085bbf8b9f9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Mar 2 12:35:19 2017 -0800",
+  "message": "4.7.1"
+},
+{
+  "commit": "854e7458c899fed62dbeae4d2a8c750a12fa0441",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Mar 2 12:34:48 2017 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "bb4b00fae0ae8ed554a6f4a4eab2689679c5b42e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 28 12:22:40 2017 -0800",
+  "message": "4.7.0"
+},
+{
+  "commit": "eadbaf3c1d41e9237d568bc64446f8a6ea2d398d",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Tue Feb 28 12:19:34 2017 -0800",
+  "message": "Update-dependencies"
+},
+{
+  "commit": "fb47694c52d4b7285cdbb80cbe7e42181826cc53",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 19 09:07:47 2017 -0800",
+  "message": "Add-missing-methods-to-API-index"
+},
+{
+  "commit": "7f9be6494e04aa20c7154dda8080c4cbae3fd598",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 19 09:00:37 2017 -0800",
+  "message": "4.6.0"
+},
+{
+  "commit": "2097c34c79b465bc596f1860e9ddf9bdb5c62d7c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 19 09:00:16 2017 -0800",
+  "message": "Update-d3-geo"
+},
+{
+  "commit": "b2456e0508a325ea8e9945070b86e7ed7c83ffc2",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sun Feb 19 08:31:32 2017 -0800",
+  "message": "HTTPS-for-bl.ocks.org"
+},
+{
+  "commit": "0fd0361ed9dbf7f8471d513fd991da8d0e774cbc",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Feb 18 09:18:16 2017 -0800",
+  "message": "Merge-branch-master-of-github.com-d3-d3"
+},
+{
+  "commit": "1dda79156928e18ef69a69f5a7a8f5de2f35a55e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Feb 18 09:17:29 2017 -0800",
+  "message": "4.5.1"
+},
+{
+  "commit": "a326837258940e0379743d8a29aa69cc1d88c9f7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Feb 18 09:17:25 2017 -0800",
+  "message": "Update-d3-geo-d3-hierarchy"
+},
+{
+  "commit": "5f9b9d50d83ec9a7dc43496cdb6183665adbeb3d",
+  "author": "Elena Glassman <elena.glassman@gmail.com>",
+  "date": "Wed Feb 15 14:28:09 2017 -0800",
+  "message": "fixed-inconsistent-subheading-levels-or"
+},
+{
+  "commit": "b080bf3796d2ac1163b85d3a5b2dfd11fa61c631",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 28 21:37:09 2017 -0800",
+  "message": "4.5.0"
+},
+{
+  "commit": "b79843666b7f1220f8a55e9f3d0ba5d8718216a9",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Sat Jan 28 21:37:01 2017 -0800",
+  "message": "Update-d3-hierarchy"
+},
+{
+  "commit": "559f497dc4c93c9e8148cf601f2faea78409464c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 26 13:07:18 2017 -0800",
+  "message": "Link-to-README"
+},
+{
+  "commit": "23f63caa19822434830e44012f045035a1f2a140",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Thu Jan 26 13:04:56 2017 -0800",
+  "message": "Update-CHANGES"
+},
+{
+  "commit": "d2278c73e514b475e308be937e18c31429780184",
+  "author": "Micah Stubbs <micah.stubbs@gmail.com>",
+  "date": "Thu Jan 26 11:57:08 2017 -0800",
+  "message": "link-v3-and-v4-tickSizeInner-tickSizeOuter"
+},
+{
+  "commit": "635d44786dd4322d0c89dd98546bff91d7cce0fe",
+  "author": "David Ollerhead <david.ollerhead@gmail.com>",
+  "date": "Thu Jan 26 18:01:49 2017 +0000",
+  "message": "Missing-semicolon"
+},
+{
+  "commit": "25e7759051fccab5fe5643eb668bcbb283ea3acc",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 23 10:49:16 2017 -0800",
+  "message": "4.4.4"
+},
+{
+  "commit": "0700ba1452dab0a851d05a411f6e4a5384770e22",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Mon Jan 23 10:49:13 2017 -0800",
+  "message": "Update-d3-timer"
+},
+{
+  "commit": "ae384d6c5bd6b89bdd51a93457dcefec224d816c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 20 15:14:39 2017 -0800",
+  "message": "Use-npm_package_version"
+},
+{
+  "commit": "17fbf8d4b16ed19303d71dee4881d871bddbc037",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 20 15:11:32 2017 -0800",
+  "message": "Add-test-for-d3.event-re-export-on-Node.-Related-3055"
+},
+{
+  "commit": "f0dd621c675a985e285ca6415fc171eede306d20",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 20 15:09:13 2017 -0800",
+  "message": "4.4.3"
+},
+{
+  "commit": "a9dadca5467101b2875a6a522b9a17405188cda7",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 20 15:09:01 2017 -0800",
+  "message": "Fix-3055"
+},
+{
+  "commit": "b41a5fea460f29f3433be505da3dec38a35a9881",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 18 02:00:38 2017 -0800",
+  "message": "4.4.2"
+},
+{
+  "commit": "72556dad257c906f5e9da76b1dc2a6475e9c464c",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Wed Jan 18 02:00:25 2017 -0800",
+  "message": "Update-d3-interpolate-rollup"
+},
+{
+  "commit": "c57952f349dff8bb8035316cedc8878bf7d8b97e",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 6 09:12:26 2017 -0800",
+  "message": "4.4.1"
+},
+{
+  "commit": "caa335ec961e02f206d0aa1fe8a9fdfad3e77681",
+  "author": "Mike Bostock <mbostock@gmail.com>",
+  "date": "Fri Jan 6 09:12:05 2017 -0800",
+  "message": "Update-d3-voronoi-d3-zoom"
+}]
